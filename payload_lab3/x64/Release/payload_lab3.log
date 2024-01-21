@@ -1,0 +1,20 @@
+﻿  attachment.cpp
+C:\Users\Даша\source\repos\payload_lab3\payload_lab3\attachment.cpp(13,11): warning C4101: size: неиспользованная локальная переменная
+  emulchk.cpp
+C:\Users\Даша\source\repos\payload_lab3\payload_lab3\emulchk.cpp(9,12): error C2485: naked: неизвестный расширенный атрибут
+C:\Users\Даша\source\repos\payload_lab3\payload_lab3\emulchk.cpp(11,2): error C4235: использовано нестандартное расширение: ключевое слово "__asm" данной архитектурой не поддерживается
+C:\Users\Даша\source\repos\payload_lab3\payload_lab3\emulchk.cpp(16,3): error C2065: mov: необъявленный идентификатор
+C:\Users\Даша\source\repos\payload_lab3\payload_lab3\emulchk.cpp(16,7): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "eax"
+C:\Users\Даша\source\repos\payload_lab3\payload_lab3\emulchk.cpp(16,7): error C2065: eax: необъявленный идентификатор
+C:\Users\Даша\source\repos\payload_lab3\payload_lab3\emulchk.cpp(16,12): error C2065: dword: необъявленный идентификатор
+C:\Users\Даша\source\repos\payload_lab3\payload_lab3\emulchk.cpp(16,18): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "ptr"
+C:\Users\Даша\source\repos\payload_lab3\payload_lab3\emulchk.cpp(16,18): error C2065: ptr: необъявленный идентификатор
+C:\Users\Даша\source\repos\payload_lab3\payload_lab3\emulchk.cpp(16,22): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "fs"
+C:\Users\Даша\source\repos\payload_lab3\payload_lab3\emulchk.cpp(16,28): error C3409: пустой блок атрибута не допускается
+C:\Users\Даша\source\repos\payload_lab3\payload_lab3\emulchk.cpp(16,28): error C2143: синтаксическая ошибка: отсутствие "]" перед "константа"
+C:\Users\Даша\source\repos\payload_lab3\payload_lab3\emulchk.cpp(16,28): error C2059: синтаксическая ошибка: константа
+  payload_lab3.cpp
+  service.cpp
+  shell.cpp
+  UAC.cpp
+C:\Users\Даша\source\repos\payload_lab3\payload_lab3\UAC.cpp(704,11): warning C4101: size: неиспользованная локальная переменная
